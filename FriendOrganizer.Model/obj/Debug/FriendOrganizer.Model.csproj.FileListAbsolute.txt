@@ -1,0 +1,12 @@
+C:\Users\sergey\Desktop\after\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.dll
+C:\Users\sergey\Desktop\after\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.pdb
+C:\Users\sergey\Desktop\after\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.dll
+C:\Users\sergey\Desktop\after\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.pdb
+E:\Projects\after\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.dll
+E:\Projects\after\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.pdb
+E:\Projects\after\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.dll
+E:\Projects\after\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.pdb
+E:\eds\after\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.dll
+E:\eds\after\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.pdb
+E:\eds\after\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.dll
+E:\eds\after\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.pdb
